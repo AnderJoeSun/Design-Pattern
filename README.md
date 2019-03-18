@@ -9,9 +9,7 @@
 
 [普通工厂](src/simplefactory)
 
-:thinking:**严格来说，普通工并厂不是属于**
-
-**设计模式，因为它不符合开闭原则，但是工厂方法是对普通工厂的改进，可以放在一起对比，体会设计模式的开闭原则:在拓展Product时必须修改Factory中的方法。**
+:thinking:**严格来说，普通工并厂不是属于设计模式，因为它不符合开闭原则，但是工厂方法是对普通工厂的改进，可以放在一起对比，体会设计模式的开闭原则:在拓展Product时必须修改Factory中的方法。**
 
 ![simplefactory](/img/simplefactory.png)
 
