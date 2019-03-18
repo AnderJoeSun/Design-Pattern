@@ -22,9 +22,9 @@
 
 [生成器](src/builder)
 
-![builder]/img/builder.png)
+![builder](/img/builder.png)
 
-原型
+原型	
 
 **原型只要实现Java中的拷贝即可，深浅拷贝试情况而定，就不给出demo了**
 
