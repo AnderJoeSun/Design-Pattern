@@ -2,6 +2,7 @@ package simplefactory.factory;
 
 import simplefactory.product.AbstractProduct;
 import simplefactory.product.ProductA;
+import simplefactory.product.ProductB;
 import simplefactory.product.ProductC;
 
 public class Factory {
@@ -13,7 +14,7 @@ public class Factory {
                 product = new ProductA();
                 break;
             case "B":
-                product = new ProductA();
+                product = new ProductB();
                 break;
             case "C":
                 product = new ProductC();
